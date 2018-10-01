@@ -1,0 +1,37 @@
+body {
+  padding-top: 70px;
+}
+
+.navbar-default {
+  background: #fff;
+  border: 0;
+  font-family: Poppins;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:focus,
+.navbar-default .navbar-nav > .open > a:hover {
+  color: #555;
+  background-color: #ffffff;
+}
+
+.thumbnail {
+  max-width: 250px;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.thumbnail .description {
+  color: #7f7f7f;
+}
+
+.itemtitle {
+  text-align: center;
+}
+
+.fontbolddatatable {
+  font-weight: bold;
+}
