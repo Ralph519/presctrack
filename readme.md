@@ -4,4 +4,4 @@
 - then run npm run watch on your console
 
 ## Database
-- sample data is available on the database folder. Copy the contents and run it on your PHPmyAdmin
+- sample data is available on the database, seed folder. Copy the contents of items.txt file and run it on your PHPmyAdmin
